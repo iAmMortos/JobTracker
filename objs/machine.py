@@ -5,9 +5,9 @@ from objs.id_obj import IdObj
 class Machine (IdObj):
   def __init__(self, machine_id, machine_type, model, uuid=None):
     super.__init__(uuid)
-    self._machine_id = None
-    self._type = None
-    self._model = None
+    self._machine_id = machine_id
+    self._type = machine_type
+    self._model = model
     self._is_rental = False
     self._assigned_job_id = None
 

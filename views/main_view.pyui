@@ -1,0 +1,105 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 6}, {320, 144}}",
+        "class" : "Button",
+        "attributes" : {
+          "uuid" : "211E9D46-3DA7-45AE-9939-52D0A8995F73",
+          "font_size" : 33,
+          "name" : "summary_btn",
+          "corner_radius" : 15,
+          "background_color" : "RGBA(0.671756,0.861656,0.237698,1.000000)",
+          "frame" : "{{113, 147}, {80, 32}}",
+          "tint_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "border_width" : 2,
+          "title" : "Summary",
+          "class" : "Button",
+          "image_name" : "iob:clipboard_32",
+          "flex" : "WB"
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 158}, {320, 144}}",
+        "class" : "Button",
+        "attributes" : {
+          "uuid" : "211E9D46-3DA7-45AE-9939-52D0A8995F73",
+          "font_size" : 33,
+          "image_name" : "iob:ios7_location_32",
+          "corner_radius" : 15,
+          "background_color" : "RGBA(0.940608,0.947712,0.784314,1.000000)",
+          "frame" : "{{113, 147}, {80, 32}}",
+          "tint_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "border_width" : 2,
+          "title" : "Jobs",
+          "class" : "Button",
+          "name" : "button1",
+          "flex" : "WB"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 310}, {320, 144}}",
+        "class" : "Button",
+        "attributes" : {
+          "uuid" : "211E9D46-3DA7-45AE-9939-52D0A8995F73",
+          "name" : "button1",
+          "font_size" : 33,
+          "corner_radius" : 15,
+          "background_color" : "RGBA(0.651566,0.867406,0.899782,1.000000)",
+          "frame" : "{{113, 147}, {80, 32}}",
+          "tint_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "border_width" : 2,
+          "title" : "Employees",
+          "class" : "Button",
+          "image_name" : "iob:ios7_people_32",
+          "flex" : "WB"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 462}, {320, 144}}",
+        "class" : "Button",
+        "attributes" : {
+          "font_size" : 33,
+          "uuid" : "211E9D46-3DA7-45AE-9939-52D0A8995F73",
+          "image_name" : "iob:ios7_cog_32",
+          "corner_radius" : 15,
+          "background_color" : "RGBA(0.859477,0.503831,0.503831,1.000000)",
+          "frame" : "{{113, 147}, {80, 32}}",
+          "tint_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "border_width" : 2,
+          "title" : "Machines",
+          "class" : "Button",
+          "name" : "button1",
+          "flex" : "WB"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {332, 640}}",
+    "class" : "View",
+    "attributes" : {
+      "custom_class" : "MainView",
+      "enabled" : true,
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
